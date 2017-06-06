@@ -1,0 +1,10 @@
+@media screen and (min-width: 600px) and (max-width: 959px){
+	#fondos{
+		background-image: url('../img/dawn.png');
+	}
+}
+@media screen and (max-width: 599px){
+	#fondos{
+		background-image: url('../img/maxresdefault.jpg');
+	}
+}
